@@ -24,6 +24,9 @@ namespace SesionState
 			Session["byNumberInStock"] = txtNumberInStock.Text;
 			Session["bytNumberOnOrder"] = txtNumberOnOrder.Text;
 			Session["bytReorderLevel"] = txtReorderLevel.Text;
+			Response.Redirect("SessionVariable2.aspx");
+
+			//uwu
 
 
         }

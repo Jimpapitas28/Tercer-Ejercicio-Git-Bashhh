@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|solutionrelative:sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git2\\sesionstate\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|solutionrelative:sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git2\\sesionstate\\sessionvariable2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\sessionvariable2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|solutionrelative:sessionvariable2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "SessionVariable2.aspx.cs",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\SessionVariable2.aspx.cs",
               "RelativeToolTip": "SessionVariable2.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T04:19:07.062Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "SessionVariable2.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-28T04:12:50.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:12:50.436Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "SessionVariable.aspx.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T05:29:19.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T05:29:19.077Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "SessionVariable.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-27T05:27:20.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T05:27:20.769Z"
             }
           ]
         }

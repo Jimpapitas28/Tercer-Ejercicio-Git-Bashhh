@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git2\\sesionstate\\sessionvariable2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|solutionrelative:sessionvariable2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|solutionrelative:sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|c:\\users\\marle\\onedrive\\desktop\\practica3\\git2\\sesionstate\\sessionvariable2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|solutionrelative:sessionvariable2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0773E47-E7D6-4766-B608-F52D3C2F553D}|SesionState.csproj|C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SessionVariable2.aspx.cs",
               "DocumentMoniker": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\SessionVariable2.aspx.cs",
               "RelativeDocumentMoniker": "SessionVariable2.aspx.cs",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\SessionVariable2.aspx.cs",
               "RelativeToolTip": "SessionVariable2.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T04:19:07.062Z",
               "EditorCaption": ""
@@ -55,15 +55,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SessionVariable.aspx.cs",
               "DocumentMoniker": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\SessionVariable.aspx.cs",
               "RelativeDocumentMoniker": "SessionVariable.aspx.cs",
               "ToolTip": "C:\\Users\\marle\\OneDrive\\Desktop\\Practica3\\git2\\SesionState\\SessionVariable.aspx.cs",
               "RelativeToolTip": "SessionVariable.aspx.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T05:29:19.077Z"
+              "WhenOpened": "2025-02-27T05:29:19.077Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
